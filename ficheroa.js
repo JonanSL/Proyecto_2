@@ -1,3 +1,3 @@
-console.log("*****-----*****")
-console.log("Soy un fichero que se llama A")
-console.log("*****-----*****")
+console.log("***-----***")
+console.log("Soy el fichero A y me an actualizado en GitHub")
+console.log("***-----***")
