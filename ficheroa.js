@@ -1,3 +1,3 @@
-console.log("**********")
+console.log("*****Ahora hemos cambiado*****")
 console.log("Soy un fichero que se llama A")
-console.log("**********")
+console.log("*****Aqui terminamos el cambio*****")
