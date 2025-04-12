@@ -1,3 +1,3 @@
-console.log("Fichero C")
-console.log("Fichero nuevo")
-console.log("++++++++++")
+console.log("Fichero C");
+console.log("Ya no es un fichero nuevo");
+console.log("Lo hemos modificado");
