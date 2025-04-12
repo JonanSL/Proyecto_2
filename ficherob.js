@@ -1,3 +1,3 @@
-console.log("__________")
-console.log("Soy el fichero B de JavaScript")
-console.log("__________")
+console.log("++++++++++")
+console.log("Soy un fichero II")
+console.log("++++++++++")
