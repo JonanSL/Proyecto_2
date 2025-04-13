@@ -1,5 +1,4 @@
-console.log("__________");
+console.log("++++++++++");
 console.log("Soy un fichero II");
-console.log("__________");
-console.log("Estamos haciendo pruebas de todo tipo");
-
+console.log("++++++++++");
+console.log("Estamos practicando un STASH");
