@@ -4,5 +4,8 @@ console.log("***-----***");
 console.log("Veamos como se comporta el STASH");
 console.log("----------");
 console.log("Practicando");
-console.log("***-----***");
-console.log("***-----***");
+console.log("Seguimos con STASH diferentes");
+console.log("Seguimos con STASH diferentes");
+console.log("Seguimos con STASH diferentes");
+console.log("Seguimos con STASH diferentes");
+
